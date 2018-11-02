@@ -1,0 +1,6 @@
+﻿  MenuPrincipal.cpp
+d:\data\raphael\trabajos-progra2\discroom-hito2\discroom\menuprincipal.cpp(39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+d:\data\raphael\trabajos-progra2\discroom-hito2\discroom\menuprincipal.cpp(40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+d:\data\raphael\trabajos-progra2\discroom-hito2\discroom\menuprincipal.cpp(41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+d:\data\raphael\trabajos-progra2\discroom-hito2\discroom\menuprincipal.cpp(104): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  DiscRoom.vcxproj -> D:\data\Raphael\TRABAJOS-Progra2\DiscRoom-Hito2\Debug\DiscRoom.exe
